@@ -24,4 +24,5 @@ int main(void)
     num1 = num2;
     num2 = swap;
     printf("After swap:%d %d", num1, num2);
+    return 0;
 }
